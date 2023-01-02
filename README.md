@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frajolahh
+- 👋 Hi, I’m @Veronildo Vinicius
 - 👀 I’m interested in programing stuf
 - 🌱 I’m currently learning Python, java script, css, HTML
 - 💞️ I’m looking to collaborate on projects and learning
